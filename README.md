@@ -16,8 +16,8 @@ Certifique-se de ter as seguintes dependências instaladas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/alanasilva88/soulcontact_back.git
+   cd soulcontact_back
    
 2. Instale as dependências:
    ```bash
